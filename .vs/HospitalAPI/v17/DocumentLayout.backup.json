@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|f:\\sem-6\\adv.net\\hospitalapi\\hospitalapi\\model\\doctorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\model\\doctorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|f:\\sem-6\\adv.net\\hospitalapi\\hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|f:\\sem-6\\adv.net\\hospitalapi\\hospitalapi\\data\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C86C9FC-C141-4C4D-A3CC-81589182BC3A}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\data\\doctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsModel.cs",
+              "DocumentMoniker": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Model\\DoctorsModel.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Model\\DoctorsModel.cs",
+              "ToolTip": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Model\\DoctorsModel.cs",
+              "RelativeToolTip": "HospitalAPI\\Model\\DoctorsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:06:13.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwJ8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:06:03.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsRepository.cs",
+              "DocumentMoniker": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Data\\DoctorsRepository.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Data\\DoctorsRepository.cs",
+              "ToolTip": "F:\\Sem-6\\ADV.Net\\HospitalAPI\\HospitalAPI\\Data\\DoctorsRepository.cs",
+              "RelativeToolTip": "HospitalAPI\\Data\\DoctorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:34:47.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
